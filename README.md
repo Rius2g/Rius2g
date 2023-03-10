@@ -24,9 +24,10 @@
 
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marius-møller-hansen-0bb44a205/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mariusmollerh/)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordHandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40&logoHeight=60)](https://www.linkedin.com/in/marius-møller-hansen-0bb44a205/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=40&logoHeight=60)](https://www.instagram.com/mariusmollerh/)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=40&logoHeight=60)](https://discord.com/users/YourDiscordHandle)
+
 
 
 
