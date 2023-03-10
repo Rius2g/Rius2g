@@ -1,9 +1,10 @@
 # 👋 Hey, I'm Marius Møller-Hansen
 
-- 🧑‍💻 Master student of Computer Science, based in Norway, Tromsø.
-
-- ✉️ You can contact me at marius.mollerhansen@hotmail.com
-- 🧠 Currently refining my C#, C++, Typescript and React skills
+- 🧑‍💻 Computer Science Master's student based in Tromsø, Norway
+- 👨‍💼 Interested in fullstack development and Fintech
+- 💼 Datakvalitet Summer Intern 2023
+- 📩 Contact: marius.mollerhansen@hotmail.com
+- 🧠 Currently expanding my skills in C#, C++, TypeScript, and React
 
 
 ## 🔧 Tech Stack
