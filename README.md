@@ -1,4 +1,5 @@
-# 👋 Hey, I'm Marius Møller-Hansen
+# ![wave](https://raw.githubusercontent.com/laurarodd/animated-emojis/main/wave.gif) Hey, I'm Marius Møller-Hansen
+
 
 - 🧑‍💻 Computer Science Master's student based in Tromsø, Norway
 - 👨‍💼 Interested in fullstack development and Fintech
