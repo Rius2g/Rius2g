@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hey, I'm [Your Name]!
 
-<!--
-**Rius2g/Rius2g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Your Profession] based in [Your City]. I love building cool things with code and pushing the boundaries of what's possible. 
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 JavaScript | Python | Java
+- 📚 React | Node.js | Flask
+- 🛢️ MongoDB | PostgreSQL | Firebase
+- 🔧 Git | Docker | AWS
+
+## 📈 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your Username]&show_icons=true&theme=dracula)
+
+## 🌐 Connect with me
+
+- 🌐 [Portfolio](https://[Your Portfolio URL])
+- 🐦 [Twitter](https://twitter.com/[Your Twitter Handle])
+- 💼 [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Handle])
