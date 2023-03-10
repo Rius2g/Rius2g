@@ -11,7 +11,7 @@ I'm a [Your Profession] based in [Your City]. I love building cool things with c
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your Username]&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rius2g&show_icons=true&theme=radical)
 
 ## 🌐 Connect with me
 
