@@ -11,10 +11,8 @@ I'm a [Your Profession] based in [Your City]. I love building cool things with c
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Rius2g]&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your Username]&show_icons=true&theme=dracula)
 
 ## 🌐 Connect with me
 
-- 🌐 [Portfolio](https://[Your Portfolio URL])
-- 🐦 [Twitter](https://twitter.com/[Your Twitter Handle])
-- 💼 [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Handle])
+- 💼 [LinkedIn](https://www.linkedin.com/in/[Marius-møller-hansen])
