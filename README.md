@@ -8,17 +8,10 @@
 
 ## 🔧 Tech Stack
 
-<style>
-  .logo {
-    width: 30px;
-    height: 30px;
-    margin-right: 10px;
-  }
-</style>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" class="logo">
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" class="logo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" class="logo">
+<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
+<img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50">
 
 
 ## 📈 Stats
@@ -27,7 +20,7 @@
 
 ## 🔝 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rius2g&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rius2g&layout=compact&theme=dark)
 
 
 ## Socials
