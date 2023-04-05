@@ -5,7 +5,7 @@
 - 👨‍💼 Interested in fullstack development and Fintech
 - 💼 Datakvalitet Summer Intern 2023
 - 📩 Contact: marius.mollerhansen@hotmail.com
-- 🧠 Currently expanding my skills in C#, C++, TypeScript, and React
+- 🧠 Currently expanding my skills in C#, C++, TypeScript, React and Next.js
 
 
 ## 🔧 Tech Stack
