@@ -2,7 +2,7 @@
 
 
 - 🧑‍💻 4th year Computer Science Master's student based in Tromsø, Norway
-- 👨‍💼 Interested in fullstack development and Fintech
+- 👨‍💼 Interested in Fintech and Distributed systems
 - 💼 Datakvalitet Summer Intern 2023, Aize Summer Intern 2024
 - 📩 Contact: marius.mollerhansen@hotmail.com
 - 🧠 Currently expanding my skills in GO
