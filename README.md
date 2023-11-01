@@ -13,7 +13,7 @@
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="50"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zBOzCPD_oFueg3QTOiFKnwHaEK%26pid%3DApi&f=1&ipt=41e850d63c96c344e74feec052535eb2ca8a06da5010ec429d22944459e55f6a&ipo=images">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="50"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zBOzCPD_oFueg3QTOiFKnwHaEK%26pid%3DApi&f=1&ipt=41e850d63c96c344e74feec052535eb2ca8a06da5010ec429d22944459e55f6a&ipo=images" width="60" height="50">
 
 
 ## 📈 Stats
