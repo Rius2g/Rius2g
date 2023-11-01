@@ -18,7 +18,7 @@
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rius2g&show_icons=true&theme=radical)
+
 
 ## 🔝 Top Languages
 
