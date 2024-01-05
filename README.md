@@ -16,11 +16,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="50"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"><img src="https://blog.thesparktree.com/assets/images/cover_golang.png" width="60" height="50">
 
 
-## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rius2g&show_icons=true&theme=radical)
-
-
-
 
 ## 🔝 Top Languages
 
