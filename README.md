@@ -1,7 +1,7 @@
 # ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, I'm Marius Møller-Hansen
 
 
-- 🧑‍💻 4th year Computer Science Master's student based in Tromsø, Norway
+- 🧑‍💻 5th year Computer Science Master's student based in Tromsø, Norway
 - 👨‍💼 Interested in Fintech and Distributed systems
 - 💼 Datakvalitet Summer Intern 2023, Aize Summer Intern 2024, Part time developer at Eevy AI
 - 📩 Contact: marius.mollerhansen@hotmail.com
