@@ -5,7 +5,7 @@
 - 👨‍💼 Interested in Fintech and Distributed systems
 - 💼 Datakvalitet Summer Intern 2023, Aize Summer Intern 2024, Part time developer at Eevy AI
 - 📩 Contact: marius.mollerhansen@hotmail.com
-- 🧠 Currently expanding my skills in GO
+- 🧠 Currently expanding my skills in Golang
 
 
 ## 🔧 Tech Stack
@@ -13,7 +13,7 @@
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="50"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"><img src="https://blog.thesparktree.com/assets/images/cover_golang.png" width="60" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="50"><img src="https://blog.thesparktree.com/assets/images/cover_golang.png" width="60" height="50">
 
 
 
