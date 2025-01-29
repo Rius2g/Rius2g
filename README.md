@@ -2,7 +2,11 @@
 
 
 - 🧑‍💻 5th year Computer Science Master's student.
-- 💼 Datakvalitet Summer Intern 2023, Aize Summer Intern 2024, Part time developer at Eevy AI
+- 💼 Experience:
+    - Datakvalitet – Summer Intern 2023
+    - Aize – Summer Intern 2024
+    - Eevy AI – Part-time Developer
+    - DagligSpare for IOS
 - 📩 Contact: marius.mollerhansen@hotmail.com
 - 🧠 Currently expanding my skills in Golang while building eevy.ai
 
