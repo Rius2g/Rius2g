@@ -6,7 +6,7 @@
     - Datakvalitet – Summer Intern 2023
     - Aize – Summer Intern 2024
     - Eevy AI – Part-time Developer
-    - DagligSpare for IOS
+    - FyrirSoft(Co-founder) - DagligSpare app for IOS
 - 📩 Contact: marius.mollerhansen@hotmail.com
 - 🧠 Currently expanding my skills in Golang while building eevy.ai
 
