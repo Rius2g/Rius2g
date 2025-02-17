@@ -7,7 +7,7 @@
     - Aize – Summer Intern 2024
     - Eevy AI (Co-owner) - Lead developer
     - FyrirSoft (Co-founder) - DagligSpare app for IOS
-    - VOM AS (Co-founder) - Memecoin genertor
+    - VOM AS (Co-founder) - Memecoin generator
 - 📩 Contact: marius.mollerhansen@hotmail.com
 - 🧠 Currently expanding my skills in Golang while building eevy.ai
 
