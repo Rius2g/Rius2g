@@ -5,8 +5,10 @@
 - 💼 Experience:
     - Datakvalitet – Summer Intern 2023
     - Aize – Summer Intern 2024
-    - Eevy AI (Co-owner) - Lead developer
-    - FyrirSoft (Co-founder) - DagligSpare app for IOS
+    - Eevy AI (Co-owner) - CTO
+    - FyrirSoft (Co-founder):
+        - DagligSpare app for IOS
+        - Anbudstjenesten.no 
     - VOM AS (Co-founder) - Memecoin generator: https://www.memeyeeter.io
 - 📩 Contact: marius.mollerhansen@hotmail.com
 - 🧠 Currently expanding my skills in Golang while building eevy.ai
