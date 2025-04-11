@@ -8,7 +8,7 @@
     - Eevy AI (Co-owner) - CTO
     - FyrirSoft (Co-founder):
         - DagligSpare app for IOS
-        - Anbudstjenesten.no 
+        - https://www.anbudstjenesten.no 
     - VOM AS (Co-founder) - Memecoin generator: https://www.memeyeeter.io
 - 📩 Contact: marius.mollerhansen@hotmail.com
 - 🧠 Currently expanding my skills in Golang while building eevy.ai
